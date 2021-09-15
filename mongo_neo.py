@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 plt.show()
 warnings.simplefilter(action="ignore", category=FutureWarning)
 
-atlasclient  = pymongo.MongoClient('mongodb+srv://vinay:1234@series.gyzgu.mongodb.net/Series?retryWrites=true&w=majority')
+atlasclient  = pymongo.MongoClient('insert your mongodb path')
 #print(atlasclient)
 
 mydb = atlasclient.tvshows.tvshows
