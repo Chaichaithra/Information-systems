@@ -1,6 +1,4 @@
 # Information-systems
 Movie databases and querying using Neo4j, MongoDb and Redis  
+<embed src= "/Information-systems/InformationS_Presentation.pdf" type = "application/pdf">
 
-
-![GitHub Logo](/Information-systems/InformationS_Presentation.pdf)
-Format: ![Alt Text](url)
