@@ -4,3 +4,4 @@ Movie databases and querying using Neo4j, MongoDb and Redis
 
 <a href="/InformationS_Presentation.pdf" class="image fit"><img src="/InformationS_Presentation.pdf" alt=""></a>
 
+<a href="/InformationS_Presentation.pdf" class="image fit"><img src="/InformationS_Presentation.pdf" alt=""></a>
